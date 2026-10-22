@@ -49,7 +49,6 @@
 **########################**++**:.######**#####***##############******
 ***#########################*+**#*++*+%%##*#####****##%####*##**#*****
 #######################***+++***###*++*####*######***##%####**#****+++
-*####################****++**+***#***+*#####*######***######*****++++=
 </pre>
 
 </td>
@@ -75,10 +74,7 @@
 
 <tr>
 <td valign="top">
-
 <pre>
-──────────────────────────────────────────────────
-
 General
 Name          Simon Trost
 Birth         2002
@@ -86,8 +82,10 @@ Studies       M.Sc. Visual Computing &
               Artificial Intelligence
 Role          Student, Scientific Assistant
 Location      Germany
+</pre>
 
-Techstack
+<pre>
+Techstack:
 Languages     Python, C#, C++, JavaScript,
               Java, CSS, HTML
 Frameworks    Flask, OpenGL, Halcon,
@@ -95,22 +93,23 @@ Frameworks    Flask, OpenGL, Halcon,
 Tools         Git, VS Code, Visual Studio,
               Unity, Unreal Engine, Docker
 Platforms     Windows, Linux, Raspberry Pi
-
-Contact
-E-Mail        simon.trost@stud-hs.coburg.de
-LinkedIn      linkedin.com/in/
-              simon-trost08032002
-GitHub        github.com/simontrost
-
-Interests     Artificial Intelligence
-              Extended Reality
-              Game Development
-              Computer Vision
-              Computer Graphics
-
-──────────────────────────────────────────────────
 </pre>
 
+<pre>
+Contact:
+E-Mail        <a href="mailto:simon.trost@stud-hs.coburg.de">simon.trost@stud-hs.coburg.de</a>
+LinkedIn      <a href="https://www.linkedin.com/in/simon-trost08032002">linkedin.com/in/simon-trost</a>
+GitHub        <a href="https://github.com/simontrost">github.com/simontrost</a>
+</pre>
+
+<pre>
+Interests:
+Artificial Intelligence
+Extended Reality
+Game Development
+Computer Vision
+Computer Graphics
+</pre>
 </td>
 </tr>
 </table>
